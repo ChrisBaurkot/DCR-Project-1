@@ -1,4 +1,6 @@
 #---------------------------------------------[ DCR-Project-1 ]---------------------------------------------------#
+# Project #1 TO-DOs:
+# ------------------
 # 1. Use Pandas to clean and format your dataset(s).
 # 2. Create a Jupyter Notebook describing the data exploration and cleanup process.
 # 3. Create a Jupyter Notebook illustrating the final data analysis.
