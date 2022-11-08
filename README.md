@@ -1,5 +1,8 @@
 # DCR Project #1
 
+## Presentation Slides
+https://docs.google.com/presentation/d/1-1hZoFboclRLvzZiwhu1CCzvfWnd_d9yo-xKOZOKsJk/edit#slide=id.g17e7ab02de7_0_135
+
 ## Idea:
 Recent developments in open banking interfaces and the arrival of some financial consolidators app/fintechs (such as Plaid, Yodlee, Klarna, etc) have made it possible for clients with multiple banking relationships to service all of their banking needs (such as Payment Initiation, Account Balances & Transaction Reporting and/or Data Analytics) via a single banking channel. Note that this is already a well-accepted and well-established offering in Europe (enabled mostly due to regulatory mandates such as the 'Second Payment Services Directive' i.e. PSD2 across Europe, which standardized Open Banking requests for Payment Initiation and Account Reporting across the banks operating in the region). In the US there currently is no similar initiative from the authorities for standardization across banks, however the availability of Open Banking/API from most of these banks in the last few years has enabled several tech organizations (e.g. Plaid or Yodlee) to build interfaces to several banks and offer these connectivity solutions to businesses that may then use that data to create even more-value-added services.
 
